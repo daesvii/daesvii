@@ -3,7 +3,7 @@
 <h3 align="center">A passionate BackEnd developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/daesvi/daesvi/assets/89358095/ea64e14c-229e-4fbf-b268-e245ebb35390">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daesvi&label=Profile%20views&color=0e75b6&style=flat" alt="daesvi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daesvii&label=Profile%20views&color=0e75b6&style=flat" alt="daesvii" /> </p>
 
 - 🌱 I’m currently learning **Typescript - NestJS**
 
@@ -29,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daesvii&show_icons=true&locale=en" alt="daesvii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daesvii&" alt="daesvii" /></p>
+
 
